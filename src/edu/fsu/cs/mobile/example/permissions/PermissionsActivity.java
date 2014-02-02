@@ -36,7 +36,6 @@ public class PermissionsActivity extends Activity {
         	{
         		return false;
         	}
-        	
         });
         
         mWebView.loadUrl(HOME_PAGE);

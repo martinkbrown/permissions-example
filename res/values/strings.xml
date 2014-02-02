@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, PermissionsActivity!</string>
     <string name="app_name">PermissionsExample</string>
+    <string name="go">Go!</string>
 
 </resources>
